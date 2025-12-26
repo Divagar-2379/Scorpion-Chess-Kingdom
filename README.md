@@ -243,12 +243,7 @@ The application is fully responsive with:
 
 This project is licensed under the MIT License.
 
-## 🆘 Support
 
-For support and questions:
-- Email: support@scorpionchess.com
-- Website: https://scorpionchess.com
-- Documentation: Available in the docs folder
 
 ---
 
